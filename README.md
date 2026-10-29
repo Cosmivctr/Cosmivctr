@@ -30,5 +30,10 @@ Atualmente busco **estágio ou vaga júnior em engenharia de software**, com foc
 E-mail: joaovictorcosmi@gmail.com
 
 
-##
-<img width="224" height="224" alt="cobrinha" src="https://github.com/user-attachments/assets/4b05a8a3-e605-4bf1-a74e-58f3dd957d6d" />
+## Jogo da cobrinha
+
+<a href="https://cosmivctr.github.io/cobrinha/">
+  <img src="cobrinha.gif" width="320" alt="Cobrinha jogando sozinha">
+</a>
+
+Clique na animação para jogar.
