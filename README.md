@@ -32,7 +32,7 @@ E-mail: joaovictorcosmi@gmail.com
 ## Jogo da cobrinha
 
 <a href="https://cosmivctr.github.io/cobrinha/">
-  <img src="[cobrinha.gif](https://github.com/user-attachments/assets/a71ca803-ffad-4074-9034-b45a1e8c589c)" width="320" alt="cobrinha">
+  <img src="(https://github.com/user-attachments/assets/a71ca803-ffad-4074-9034-b45a1e8c589c)" width="320" alt="cobrinha">
 </a>
 
 Clique na animação para jogar.
