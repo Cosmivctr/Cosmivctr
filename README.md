@@ -28,4 +28,7 @@ Atualmente busco **estágio ou vaga júnior em engenharia de software**, com foc
 ## Contato
 
 E-mail: joaovictorcosmi@gmail.com
+
+
+##
 <img width="224" height="224" alt="cobrinha" src="https://github.com/user-attachments/assets/4b05a8a3-e605-4bf1-a74e-58f3dd957d6d" />
